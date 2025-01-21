@@ -1,0 +1,2 @@
+traceroute to 134.122.35.41 (134.122.35.41), 30 hops max, 60 byte packets
+ 1  lamp-ubuntu-s-1vcpu-1gb-tor1-01 (134.122.35.41)  0.032 ms  0.012 ms  0.010 ms
